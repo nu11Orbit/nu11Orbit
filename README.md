@@ -30,7 +30,7 @@ smrk@github: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -----------------------------------------------------------------
-Host          : nu11Orbit.dev
+Host          : nu11Orbit.vercel.app
 Username      : nu11Orbit
 Identity      : Curious mind, relentless builder.
 Languages     : Go, JavaScript, TypeScript, C++
