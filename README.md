@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img 
       alt="typograssy" 
@@ -10,7 +10,18 @@
       style="width:150px;height:28px;" 
       src="https://komarev.com/ghpvc/?username=nu11Orbit&style=for-the-badge&color=1C8C8C">
   </p>
+</div> -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Smrk;Competitive+Programmer;Full+Stack+Developer;Building+Things+That+Matter;Go+%7C+TypeScript+%7C+C%2B%2B" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nu11Orbit&style=for-the-badge&color=58A6FF"/>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=58A6FF&section=footer"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/smrknova/smrknova/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
@@ -51,7 +62,7 @@ Hobbies       : Coding,vibing with floral art & scenic sketching,
 ###
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/nu11Orbit">
     <img src="https://github-readme-stats.vercel.app/api?username=nu11Orbit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="GitHub Stats" />
   </a>
@@ -59,10 +70,22 @@ Hobbies       : Coding,vibing with floral art & scenic sketching,
   <a href="https://github.com/nu11Orbit">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nu11Orbit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&bg_color=0D1117" height="50%" alt="Top Languages" />
   </a>
-</div>
+</div> -->
+<h2 align="center">GitHub Analytics</h2>
 
----
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11Orbit&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11Orbit&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11Orbit&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11Orbit&theme=github_dark" />
+</p>
+
+
 ###
+---
 
 <div align="center">
 
